@@ -1,0 +1,9 @@
+A pasta "Executavel" contém o programa compilado, junto das dll necessárias para rodar, além do banco de dados vazio, criado no Firebird 2.5.
+
+A pasta "Fontes" contém os fontes do projeto, desenvolvido no Delphi Berlin, além do arquivo "BancoTeste.sql", que é o script de criação do banco de dados.
+
+Assim como solicitado, foi desenvolvido um projetinho que contém uma busca simples e um cadastro de clientes.
+
+Para conseguir utilizar, é necessário ter o Firebird 2.5 instalado, e as configurações de conexão com o banco eu tentei deixar
+o mais simples possível ao utilizar o sistema, bastando informar o nome do servidor (default LOCALHOST), a porta do firebird
+(default 3050) e o caminho do arquivo de banco de dados (default pasta atual).
